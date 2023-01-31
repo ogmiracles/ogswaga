@@ -1,1 +1,1 @@
-print("Salamaleikum")
+print("pRETty")

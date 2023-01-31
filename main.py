@@ -1,1 +1,1 @@
-print("Shalom")
+print("Salamaleikum")
